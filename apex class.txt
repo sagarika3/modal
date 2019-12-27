@@ -1,0 +1,7 @@
+public class DEVC_DemoClass {
+
+    @AuraEnabled
+    public static string getMsg(){
+        return ('Merry Christmas and Happy New Year 2020');
+    }
+}
